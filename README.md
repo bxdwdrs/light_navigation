@@ -19,10 +19,10 @@
   <table>
     <tr>
       <td align="center">
-        <img src="images/wechat.jpg" alt="微信支付" width="200" />
+        <img src="./images/wechat.jpg" alt="微信支付" width="200" />
       </td>
       <td align="center">
-        <img src="images/zhifubao.jpg" alt="支付宝" width="200" />
+        <img src="./images/zhifubao.jpg" alt="支付宝" width="200" />
       </td>
     </tr>
   </table>
@@ -35,4 +35,4 @@
 如果您有任何问题或建议，欢迎通过以下方式联系我：
 
 - **QQ**: 422050585
-- **邮箱**: [422050585@qq.com](mailto:422050585@qq.com)
+- **邮箱**: 422050585@qq.com
