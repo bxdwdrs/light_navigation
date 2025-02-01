@@ -15,8 +15,8 @@
 
 <table>
     <tr>
-        <td><img src="C:\Users\bxd\Desktop\桌面文件\tinified\wechat.jpg" style="zoom:20%"/></td>
-        <td><img src="C:\Users\bxd\Desktop\桌面文件\tinified\zhifubao.jpg" style="zoom:20%"/></td>
+        <td><img src="images\wechat.jpg" style="zoom:20%"/></td>
+        <td><img src="images\zhifubao.jpg" style="zoom:20%"/></td>
     </tr>
 </table>
 
