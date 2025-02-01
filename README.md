@@ -9,17 +9,30 @@
 - **拖拽排序**：支持对自定义网站进行拖拽排序。
 - **编辑模式**：进入编辑模式后，可以删除或编辑自定义网站。
 
+---
 
 ## 支持赞助
-您的支持是我们前进的动力
 
-<table>
+您的支持是我们前进的动力！
+
+<div align="center">
+  <table>
     <tr>
-        <td><img src="images\wechat.jpg" style="zoom:20%"/></td>
-        <td><img src="images\zhifubao.jpg" style="zoom:20%"/></td>
+      <td align="center">
+        <img src="images/wechat.jpg" alt="微信支付" width="200" />
+      </td>
+      <td align="center">
+        <img src="images/zhifubao.jpg" alt="支付宝" width="200" />
+      </td>
     </tr>
-</table>
+  </table>
+</div>
+
+---
 
 ## 联系方式
-### QQ： 422050585
-### 邮箱： 422050585@qq.com
+
+如果您有任何问题或建议，欢迎通过以下方式联系我：
+
+- **QQ**: 422050585
+- **邮箱**: [422050585@qq.com](mailto:422050585@qq.com)
