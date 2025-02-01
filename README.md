@@ -21,5 +21,5 @@
 </table>
 
 ## 联系方式
-### QQ： [422050585](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=422050585)
-### 邮箱： [422050585@qq.com](mailto:422050585@qq.com)
+### QQ： 422050585
+### 邮箱： 422050585@qq.com
